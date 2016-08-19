@@ -223,11 +223,8 @@ var rules = {
     "What comes to your mind when you ask that?",
   ],
   "~*x perhaps ~*y": [
-    "You do not seem quite certain",
-  ],
-   "~*x like ~*y": [
-    "Yes, I do",
-    "Not at all",
+    "No go away",
+ 
 };
 
 var default_responses = [
